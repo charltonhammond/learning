@@ -1,0 +1,3 @@
+[submodule "libs/FEA_solver"]
+	path = libs/FEA_solver
+	url = git@github.com:charltonhammond/FEA_solver.git
