@@ -1,3 +1,0 @@
-# A Custom FEA solver
----
-How hard can it be...
